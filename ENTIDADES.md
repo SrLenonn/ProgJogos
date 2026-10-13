@@ -14,13 +14,11 @@ O que se move, muda de estado ou reage a algo? Uma por linha.
 - Cliente
 - Humano herda de Cliente
 - Monstro herda de Cliente
-- Áreas
-- Cozinha herda de Áreas
-- Balcão herda de Áreas
 - Pedidos
 - Receitas
 - Igredientes
 - Comidas
+- Ferramentas de cozinha
 
 ## 2. Propriedades
 
