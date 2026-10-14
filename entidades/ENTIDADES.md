@@ -26,8 +26,8 @@ O que cada entidade sabe sobre si?
 |---|---|
 | Jogador | Estresse |
 | cliente | Nome, Perfil, Restrições, Preferências, Nível, Estado |
-| Monstro | '' |
-| Humano | '' |
+| Monstro | Espécie, Características |
+| Humano | Características |
 | Pedidos | Nome, Itens Solicitados, Status, Nível, Resultado |
 | Receitas | Nome, Modo, Nível |
 | Ingrediente | Nome, Categoria, Características |
