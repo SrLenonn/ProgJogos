@@ -24,7 +24,7 @@ O que cada entidade sabe sobre si?
 
 | Entidade | Propriedades |
 |---|---|
-| Jogador | Dia Atual, Estresse |
+| Jogador | Estresse |
 | cliente | Nome, Perfil, Restrições, Preferências, Nível, Estado |
 | Monstro | '' |
 | Humano | '' |
