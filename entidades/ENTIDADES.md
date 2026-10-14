@@ -63,7 +63,15 @@ O que colide com o quê? A reação é igual para todo par?
 
 Uma entidade aciona ou lê a outra diretamente, ou por um terceiro (o jogo, o mundo, um gerenciador)?
 
-- [quem] → [quem]: [direto ou por quem?]
+- Jogador → Cliente : Direto
+- Jogador → Comida : Direto
+- Cliente → Pedido: Direto
+- Pedido → Comida: Direto
+- Pedido → Receita: Direto
+- Rceita → Comida: Direto
+- Receita → Ingrediente: Direto
+- Comida → Ingrediente: Direto
+- Ferramenta → Ingrediente: Direto
 
 ## 6. Falsas entidades
 
